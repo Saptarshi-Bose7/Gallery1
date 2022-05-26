@@ -1,0 +1,12 @@
+@media (max-width:650px)
+{
+    .row{
+        flex-direction: column;
+        
+    }
+    .column
+    {
+        max-width: 100%;
+        margin-left: 20px;
+    }
+}
